@@ -1,0 +1,23 @@
+{
+    "ui_id": 9,
+    "activity_name": "RegistrationActivity",
+    "annotations": [
+        {
+            "element_id": "input_email",
+            "element_type": "EditText",
+            "action": "type",
+            "description": "Allows the user to enter their email address"
+        },
+        {
+            "element_id": "btn_register",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Registers a new account"
+        },
+        {
+            "element_id": "txt_terms",
+            "element_type": "TextView",
+            "description": "Displays the terms and conditions"
+        }
+    ]
+}

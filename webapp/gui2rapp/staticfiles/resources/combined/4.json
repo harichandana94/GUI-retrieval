@@ -1,0 +1,32 @@
+{
+    "activity_name": "LoginActivity",
+    "text": [
+        {
+            "content": "Username",
+            "visibility": "visible-to-user"
+        },
+        {
+            "content": "Password",
+            "visibility": "visible-to-user"
+        }
+    ],
+    "resource-id": [
+        {
+            "id": "field_username",
+            "visibility": "visible-to-user"
+        },
+        {
+            "id": "field_password",
+            "visibility": "visible-to-user"
+        }
+    ],
+    "class": "com.example.LoginActivity",
+    "iconclass": [
+        "icon_user",
+        "icon_lock"
+    ],
+    "componentlabel": [
+        "Username Field",
+        "Password Field"
+    ]
+}

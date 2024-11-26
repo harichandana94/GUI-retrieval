@@ -1,0 +1,23 @@
+{
+    "ui_id": 2,
+    "activity_name": "SettingsActivity",
+    "annotations": [
+        {
+            "element_id": "switch_1",
+            "element_type": "Switch",
+            "action": "toggle",
+            "description": "Enables or disables notifications"
+        },
+        {
+            "element_id": "btn_save",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Saves the settings"
+        },
+        {
+            "element_id": "txt_version",
+            "element_type": "TextView",
+            "description": "Displays the app version"
+        }
+    ]
+}

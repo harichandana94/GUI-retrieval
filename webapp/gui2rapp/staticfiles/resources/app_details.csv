@@ -1,0 +1,16 @@
+UI Number,App Package Name,app_id,element_type,label,position_x,position_y,width,height,tooltip
+1,com.example.app1,1,Button,Submit,50,20,100,30,Click to submit
+2,com.example.app1,1,TextField,Username,120,100,200,40,Enter your username
+3,com.example.app2,2,Image,Profile Picture,10,30,300,100,Your profile picture
+4,com.example.app3,3,Dropdown,Category,200,50,150,20,Select a category
+5,com.example.app4,4,Checkbox,Terms,300,150,50,15,Agree to terms
+6,com.example.app5,5,Slider,Volume,400,250,60,10,Adjust the volume
+7,com.example.app6,6,Button,Alert,150,60,80,25,Get weather alerts
+8,com.example.app7,7,Dropdown,Language,350,120,150,20,Select your language
+9,com.example.app8,8,TextField,Amount,180,200,250,40,Enter your expense amount
+10,com.example.app9,9,Button,Join Meeting,100,150,120,40,Join the video meeting
+11,com.example.app10,10,Image,Game Thumbnail,220,60,400,200,Preview the game
+12,com.example.app11,11,TextField,Weight,130,180,200,40,Enter your weight
+13,com.example.app12,12,Button,Refresh,50,50,100,30,Refresh the data
+14,com.example.app13,13,Dropdown,Quiz Topic,210,90,150,30,Select a quiz topic
+15,com.example.app14,14,Button,Save Recipe,180,60,100,40,Save your favorite recipe

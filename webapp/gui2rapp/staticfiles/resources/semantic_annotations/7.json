@@ -1,0 +1,22 @@
+{
+    "ui_id": 7,
+    "activity_name": "OrderHistoryActivity",
+    "annotations": [
+        {
+            "element_id": "list_orders",
+            "element_type": "ListView",
+            "description": "Displays the user's past orders"
+        },
+        {
+            "element_id": "txt_order_details",
+            "element_type": "TextView",
+            "description": "Shows details of the selected order"
+        },
+        {
+            "element_id": "btn_reorder",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Allows the user to reorder items"
+        }
+    ]
+}

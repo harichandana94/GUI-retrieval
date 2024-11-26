@@ -1,0 +1,22 @@
+{
+    "ui_id": 3,
+    "activity_name": "ProfileActivity",
+    "annotations": [
+        {
+            "element_id": "img_profile",
+            "element_type": "ImageView",
+            "description": "Displays the user's profile picture"
+        },
+        {
+            "element_id": "btn_edit",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Opens the edit profile screen"
+        },
+        {
+            "element_id": "txt_name",
+            "element_type": "TextView",
+            "description": "Displays the user's name"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "ui_id": 1,
+    "activity_name": "MainActivity",
+    "annotations": [
+        {
+            "element_id": "button_1",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Starts the main process"
+        },
+        {
+            "element_id": "text_1",
+            "element_type": "TextView",
+            "description": "Displays the main title"
+        },
+        {
+            "element_id": "input_1",
+            "element_type": "EditText",
+            "description": "User input field for name"
+        }
+    ]
+}

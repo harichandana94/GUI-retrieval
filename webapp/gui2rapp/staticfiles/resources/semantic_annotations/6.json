@@ -1,0 +1,22 @@
+{
+    "ui_id": 6,
+    "activity_name": "CartActivity",
+    "annotations": [
+        {
+            "element_id": "list_cart",
+            "element_type": "ListView",
+            "description": "Displays the items in the cart"
+        },
+        {
+            "element_id": "btn_checkout",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Proceeds to checkout"
+        },
+        {
+            "element_id": "txt_total",
+            "element_type": "TextView",
+            "description": "Shows the total price of items"
+        }
+    ]
+}

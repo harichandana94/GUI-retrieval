@@ -1,0 +1,32 @@
+{
+    "activity_name": "MainActivity",
+    "text": [
+        {
+            "content": "Submit",
+            "visibility": "visible-to-user"
+        },
+        {
+            "content": "Cancel",
+            "visibility": "invisible"
+        }
+    ],
+    "resource-id": [
+        {
+            "id": "button_submit",
+            "visibility": "visible-to-user"
+        },
+        {
+            "id": "button_cancel",
+            "visibility": "invisible"
+        }
+    ],
+    "class": "com.example.MainActivity",
+    "iconclass": [
+        "icon_save",
+        "icon_cancel"
+    ],
+    "componentlabel": [
+        "Save Button",
+        "Cancel Button"
+    ]
+}

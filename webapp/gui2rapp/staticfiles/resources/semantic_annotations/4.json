@@ -1,0 +1,23 @@
+{
+    "ui_id": 4,
+    "activity_name": "SearchActivity",
+    "annotations": [
+        {
+            "element_id": "input_search",
+            "element_type": "EditText",
+            "action": "type",
+            "description": "Allows the user to enter search terms"
+        },
+        {
+            "element_id": "btn_search",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Initiates the search"
+        },
+        {
+            "element_id": "list_results",
+            "element_type": "ListView",
+            "description": "Displays the search results"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "ui_id": 1,
+    "activity_name": "MainActivity",
+    "annotations": [
+        {
+            "element_id": "btn_start",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Starts the app workflow"
+        },
+        {
+            "element_id": "img_logo",
+            "element_type": "ImageView",
+            "description": "Displays the app logo"
+        },
+        {
+            "element_id": "txt_welcome",
+            "element_type": "TextView",
+            "description": "Displays the welcome message"
+        }
+    ]
+}

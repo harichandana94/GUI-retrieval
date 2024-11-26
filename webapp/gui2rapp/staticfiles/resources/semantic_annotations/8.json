@@ -1,0 +1,24 @@
+{
+    "ui_id": 8,
+    "activity_name": "LoginActivity",
+    "annotations": [
+        {
+            "element_id": "input_username",
+            "element_type": "EditText",
+            "action": "type",
+            "description": "Allows the user to enter their username"
+        },
+        {
+            "element_id": "input_password",
+            "element_type": "EditText",
+            "action": "type",
+            "description": "Allows the user to enter their password"
+        },
+        {
+            "element_id": "btn_login",
+            "element_type": "Button",
+            "action": "click",
+            "description": "Logs the user in"
+        }
+    ]
+}
